@@ -1,4 +1,12 @@
-title: the jim team
+title: jim
 baseURL: https://the.jim.team/
 
 languageCode: en-us
+theme: hello-friend-ng
+
+params:
+  dateform: 2006-01-02
+
+  homeSubtitle: happy valentines. just say yes.
+  description: jim
+  keywords: jim
