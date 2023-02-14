@@ -1,2 +1,3 @@
-# the.jim.team
-The Jim Team
+# the jim team
+
+lol. this is funny.
